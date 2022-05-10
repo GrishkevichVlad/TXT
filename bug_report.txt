@@ -1,1 +1,4 @@
-
+Open
+Save
+Install
+Delete
